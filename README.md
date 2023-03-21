@@ -13,3 +13,6 @@ The Cornerstone opened in 2021. Before this date, the corner was occupied by the
 Play video: [youtu.be/f7C0meQlSTY](https://youtu.be/f7C0meQlSTY)
 
 The data used for these views were acquired in mid 2018 to early 2019, before demolition began. Generated in ArcGIS Pro using [KyFromAbove](https://kyfromabove.ky.gov/) point cloud data, Phase 2 lidar, 2019. Point cloud was colorized using NAIP aerial imagery, 2018, hosted by the Kentucky Division Geographic Information at [kyraster.ky.gov](https://kyraster.ky.gov/arcgis/rest/services/ImageServices) image services.
+
+![Height of POT](pot.jpg)     
+*Profile view of POT*
