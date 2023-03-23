@@ -5,7 +5,7 @@ The Esports Theater is located in The Cornerstone Building on the University of 
 ![View from The Cornerstone](./View-of-campus.jpg)     
 *View from The Cornerstone toward the center of campus*
 
-The Cornerstone opened in 2021. Before this date, the corner was occupied by the Kennedy's Bookstore (renamed Kennedy’s Wildcat Den in 2013) since the 1950s. The building was demolished in late 2019.
+The Cornerstone opened in 2021... Before this date, the corner was occupied by the Kennedy's Bookstore (renamed Kennedy’s Wildcat Den in 2013) since the 1950s. The building was demolished in late 2019.
 
 ![Bird's eye view of corner](./screen.jpg)    
 *Bird's eye view of corner*
